@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Tej Prakash Prasad",
+      "username": "testteju",
+      "email": "teju@gmail.com",
+      "phone": "9835030789",
+      "id": 1
+    },
+    {
+      "name": "Ajeet Kumar",
+      "username": "ajeet",
+      "email": "ajeetkumar@gmail.com",
+      "phone": "9835030787",
+      "id": 2
+    },
+    {
+      "name": "Manish Kumar",
+      "username": "manish",
+      "email": "manish@gmail.com",
+      "phone": "4678998761",
+      "id": 3
+    }
+  ]
+}
